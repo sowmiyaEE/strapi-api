@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "image",
+  "info": {
+    "singularName": "image",
+    "pluralName": "images",
+    "displayName": "images"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": true,
+      "component": "product-image.product-image"
+    }
+  }
+}

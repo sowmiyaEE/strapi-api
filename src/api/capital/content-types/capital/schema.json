@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "capitals",
+  "info": {
+    "singularName": "capital",
+    "pluralName": "capitals",
+    "displayName": "capital"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "uid"
+    },
+    "active": {
+      "type": "boolean"
+    }
+  }
+}
